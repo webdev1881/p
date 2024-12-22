@@ -1,4 +1,7 @@
-streamlit==1.29.0
-requests==2.31.0
-selenium==4.27.1
-webdriver_manager==4.0.2
+streamlit
+requests
+selenium
+webdriver_manager
+streamlit
+seleniumbase
+webdriver-manager
