@@ -22,8 +22,12 @@ try:
 
     # Ожидание загрузки страницы
 
+    file = open("search.json", "r")
+    content = file.read()
+    print("CONT: " + content)
+
     # Ссылка на конкретный товар
-    product_link = "https://hotline.ua/ua/mobile-zaryadnye-stancii/fossibot-f2400-green/"
+    product_link = content
     time.sleep(2)
 
     # Переход на страницу товара
@@ -40,6 +44,7 @@ try:
             shop_name = shop.find_element(By.CLASS_NAME, "shop__title").text
             shop_href = shop.find_element(By.CLASS_NAME, "shop__title").get_attribute("href")
             shop_price = shop.find_element(By.CLASS_NAME, "price__value").text
+
             if shop_name.strip():  # Проверка, что shop_name не пустая строка
                 shop_data.append({"shop_name": shop_name, "price": shop_price, "shop_link": shop_href})
         except Exception as e:
@@ -56,10 +61,11 @@ try:
     with open("product.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-    print("Данные успешно записаны в файл product.json")
+    print("================Данные успешно записаны в файл product.json")
 
 except Exception as e:
     print("Произошла ошибка:", e)
 
 finally:
+    print("================Завершение программы")
     driver.quit()

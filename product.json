@@ -1,111 +1,86 @@
 {
-    "product_link": "https://hotline.ua/ua/mobile-zaryadnye-stancii/fossibot-f2400-green/",
-    "product_name": "Зарядна станція Fossibot F2400 Green",
+    "product_link": "https://hotline.ua/ua//dacha_sad-cepnye-pily/husqvarna-225i-kit-9705475-06/",
+    "product_name": "Акумуляторна пила Husqvarna 225i KIT (9705475-06)",
     "shops": [
         {
-            "shop_name": "China-Gadgets",
-            "price": "45 199",
-            "shop_link": "https://hotline.ua/go/price/13642011498/"
+            "shop_name": "Sweden-tools.kiev.ua",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13400502296/"
         },
         {
-            "shop_name": "Touch",
-            "price": "46 829",
-            "shop_link": "https://hotline.ua/go/price/13700594269/"
+            "shop_name": "Сантел Україна",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13633016553/"
         },
         {
-            "shop_name": "MTA.UA",
-            "price": "45 999",
-            "shop_link": "https://hotline.ua/go/price/13641445700/"
+            "shop_name": "Instrumentarium",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13679537284/"
         },
         {
-            "shop_name": "Just Buy",
-            "price": "44 999",
-            "shop_link": "https://hotline.ua/go/price/13646098825/"
+            "shop_name": "STORGOM",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13669174341/"
         },
         {
-            "shop_name": "TELEMART.UA",
-            "price": "44 999",
-            "shop_link": "https://hotline.ua/go/price/13689949323/"
+            "shop_name": "listasad.com.ua",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13707695821/"
         },
         {
-            "shop_name": "HI-TECH.com.ua",
-            "price": "39 891",
-            "shop_link": "https://hotline.ua/go/price/13704996031/"
+            "shop_name": "Motoblok.biz",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13425511677/"
         },
         {
-            "shop_name": "HI-TECH.com.ua",
-            "price": "42 591",
-            "shop_link": "https://hotline.ua/go/price/13704996030/"
+            "shop_name": "Динстех",
+            "price": "14 999",
+            "shop_link": "https://hotline.ua/go/price/13426119095/"
         },
         {
-            "shop_name": "Aligator",
-            "price": "47 999",
-            "shop_link": "https://hotline.ua/go/price/13652761572/"
+            "shop_name": "Husgarden",
+            "price": "14 999",
+            "shop_link": "https://hotline.ua/go/price/13463424957/"
         },
         {
-            "shop_name": "DiDi",
-            "price": "46 100",
-            "shop_link": "https://hotline.ua/go/price/13662409513/"
+            "shop_name": "Центр Постачання України",
+            "price": "14 999",
+            "shop_link": "https://hotline.ua/go/price/13688805366/"
         },
         {
-            "shop_name": "FoRoom",
-            "price": "42 999",
-            "shop_link": "https://hotline.ua/go/price/13696333342/"
+            "shop_name": "Кулібін",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13427104498/"
         },
         {
-            "shop_name": "ALLPROSERVER",
-            "price": "48 380",
-            "shop_link": "https://hotline.ua/go/price/13690449887/"
+            "shop_name": "Rozetka.ua",
+            "price": "14 999",
+            "shop_link": "https://hotline.ua/go/price/13689292160/"
         },
         {
-            "shop_name": "eStore.ua",
-            "price": "46 569",
-            "shop_link": "https://hotline.ua/go/price/13685043877/"
+            "shop_name": "PRO ІНСТРУМЕНТ",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13427141969/"
         },
         {
-            "shop_name": "eStore.ua",
-            "price": "49 369",
-            "shop_link": "https://hotline.ua/go/price/13685043881/"
+            "shop_name": "John Stalevar",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13417226408/"
         },
         {
-            "shop_name": "DENIKA.UA",
-            "price": "47 969",
-            "shop_link": "https://hotline.ua/go/price/13643618655/"
+            "shop_name": "Люкс Електро",
+            "price": "14 999",
+            "shop_link": "https://hotline.ua/go/price/13570774698/"
         },
         {
-            "shop_name": "АйТіФрі",
-            "price": "47 492",
-            "shop_link": "https://hotline.ua/go/price/13683695056/"
+            "shop_name": "g - s h o p . u a",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13646135966/"
         },
         {
-            "shop_name": "Tehnopostavka",
-            "price": "47 767",
-            "shop_link": "https://hotline.ua/go/price/13664642192/"
-        },
-        {
-            "shop_name": "LuckyLink.kiev.ua",
-            "price": "46 691",
-            "shop_link": "https://hotline.ua/go/price/13685164639/"
-        },
-        {
-            "shop_name": "MotoStuff.com.ua",
-            "price": "39 999",
-            "shop_link": "https://hotline.ua/go/price/13705026437/"
-        },
-        {
-            "shop_name": "Dimtehnik",
-            "price": "53 299",
-            "shop_link": "https://hotline.ua/go/price/13650714460/"
-        },
-        {
-            "shop_name": "LVTEHNO",
-            "price": "40 300",
-            "shop_link": "https://hotline.ua/go/price/13701367869/"
-        },
-        {
-            "shop_name": "FOSSiBOT Store",
-            "price": "42 699",
-            "shop_link": "https://hotline.ua/go/price/13679108380/"
+            "shop_name": "g - shop",
+            "price": "13 999",
+            "shop_link": "https://hotline.ua/go/price/13666893752/"
         }
     ]
 }
