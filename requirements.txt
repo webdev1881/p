@@ -2,8 +2,8 @@ streamlit==1.29.0
 
 requests==2.31.0
 
-selenium==4.5.0
+selenium==4.27.1
 
 streamlit-option-menu==0.3.0
 
-webdriver_manager==4.1.0
+webdriver_manager==4.0.2
