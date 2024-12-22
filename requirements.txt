@@ -1,0 +1,11 @@
+streamlit==1.29.0
+
+requests==2.31.0
+
+selenium==4.5.0
+
+webdriver-manager==3.7.0
+
+streamlit-option-menu==0.3.0
+
+webdriver_manager==4.1.0

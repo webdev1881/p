@@ -23,11 +23,6 @@
             "shop_link": "https://hotline.ua/go/price/13669174341/"
         },
         {
-            "shop_name": "listasad.com.ua",
-            "price": "13 999",
-            "shop_link": "https://hotline.ua/go/price/13707695821/"
-        },
-        {
             "shop_name": "Motoblok.biz",
             "price": "13 999",
             "shop_link": "https://hotline.ua/go/price/13425511677/"
@@ -66,6 +61,11 @@
             "shop_name": "John Stalevar",
             "price": "13 999",
             "shop_link": "https://hotline.ua/go/price/13417226408/"
+        },
+        {
+            "shop_name": "АЛЬЦЕСТ",
+            "price": "14 999",
+            "shop_link": "https://hotline.ua/go/price/13657914349/"
         },
         {
             "shop_name": "Люкс Електро",
